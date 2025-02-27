@@ -1,3 +1,5 @@
-﻿  ConsoleApplication1.cpp
-C:\Users\Maybe\GitHub\coding1-cpp\ConsoleApplication1\ConsoleApplication1.cpp(13,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+﻿  .cpp
+C:\Users\Maybe\GitHub\coding1-cpp\ConsoleApplication1\.cpp(25,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Maybe\GitHub\coding1-cpp\ConsoleApplication1\.cpp(24,21): warning C4101: 'attack': unreferenced local variable
+C:\Users\Maybe\GitHub\coding1-cpp\ConsoleApplication1\.cpp(24,29): warning C4101: 'block': unreferenced local variable
   ConsoleApplication1.vcxproj -> C:\Users\Maybe\GitHub\coding1-cpp\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
