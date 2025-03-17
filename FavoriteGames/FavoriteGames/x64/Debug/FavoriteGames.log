@@ -1,2 +1,3 @@
-﻿  FavoriteGames.cpp
+﻿  recap.cpp
+C:\Users\Maybe\GitHub\coding1-cpp\FavoriteGames\recap.cpp(14,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
   FavoriteGames.vcxproj -> C:\Users\Maybe\GitHub\coding1-cpp\FavoriteGames\x64\Debug\FavoriteGames.exe
