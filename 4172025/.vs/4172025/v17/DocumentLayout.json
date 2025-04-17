@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Maybe\\GitHub\\coding1-cpp\\4172025\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1EDFD792-C8D9-4E1B-B74A-939BFFF1C614}|4172025.vcxproj|C:\\Users\\Maybe\\GitHub\\coding1-cpp\\4172025\\4172025.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1EDFD792-C8D9-4E1B-B74A-939BFFF1C614}|4172025.vcxproj|solutionrelative:4172025.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "4172025.cpp",
+              "DocumentMoniker": "C:\\Users\\Maybe\\GitHub\\coding1-cpp\\4172025\\4172025.cpp",
+              "RelativeDocumentMoniker": "4172025.cpp",
+              "ToolTip": "C:\\Users\\Maybe\\GitHub\\coding1-cpp\\4172025\\4172025.cpp",
+              "RelativeToolTip": "4172025.cpp",
+              "ViewState": "AgIAAIYAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-17T14:42:19.559Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
