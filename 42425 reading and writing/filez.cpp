@@ -36,3 +36,23 @@ void ReadFromFile() {
 	//close the file
 	file.close();
 }
+
+void WriteShipToFile(ship givenShip) {
+	cout << "Writing " << givenShip.name << " to file\n.";
+
+	ofstream file("ship.txt", ios::app);
+
+	// confirm the file is open
+	if (!file.is_open()) {
+		cout << "dont wanna.\n";
+		return;
+	}
+
+	// write text to the open file
+	file << givenShip.name; //add the name, which is a string, to the file.
+	file << givenShip.fuel; //add the fuel, which an int, to the file.
+
+	//close the file (save to disk)
+	file.close();
+}
+

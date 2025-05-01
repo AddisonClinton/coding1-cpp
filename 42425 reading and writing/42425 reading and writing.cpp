@@ -13,6 +13,7 @@ int main()
 	carolla.type = CRUISER;
 	carolla.status();
 
+	WriteShipToFile(carolla);
 
 	return 0;
 }
