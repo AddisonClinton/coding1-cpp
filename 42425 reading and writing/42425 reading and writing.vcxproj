@@ -24,6 +24,7 @@
     <ProjectGuid>{38c65d97-cacd-4687-951e-e0039d1648c8}</ProjectGuid>
     <RootNamespace>My42425readingandwriting</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>HW14 Saving Ships</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -127,7 +128,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="42425 reading and writing.cpp" />
+    <ClCompile Include="HW14 Saving Ships.cpp" />
     <ClCompile Include="filez.cpp" />
     <ClCompile Include="ship.cpp" />
   </ItemGroup>

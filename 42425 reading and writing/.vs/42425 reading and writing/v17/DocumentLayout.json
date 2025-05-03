@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Maybe\\GitHub\\coding1-cpp\\42425 reading and writing\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{38C65D97-CACD-4687-951E-E0039D1648C8}|42425 reading and writing.vcxproj|C:\\Users\\Maybe\\GitHub\\coding1-cpp\\42425 reading and writing\\42425 reading and writing.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{38C65D97-CACD-4687-951E-E0039D1648C8}|42425 reading and writing.vcxproj|solutionrelative:42425 reading and writing.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{38C65D97-CACD-4687-951E-E0039D1648C8}|42425 reading and writing.vcxproj|C:\\Users\\Maybe\\GitHub\\coding1-cpp\\42425 reading and writing\\HW14 Saving Ships.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{38C65D97-CACD-4687-951E-E0039D1648C8}|42425 reading and writing.vcxproj|solutionrelative:HW14 Saving Ships.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{38C65D97-CACD-4687-951E-E0039D1648C8}|42425 reading and writing.vcxproj|C:\\Users\\Maybe\\GitHub\\coding1-cpp\\42425 reading and writing\\ship.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -42,8 +42,7 @@
               "RelativeToolTip": "ship.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-24T15:43:05.728Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-24T15:43:05.728Z"
             },
             {
               "$type": "Document",
@@ -55,8 +54,7 @@
               "RelativeToolTip": "ship.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-04-24T15:39:06.974Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-24T15:39:06.974Z"
             },
             {
               "$type": "Document",
@@ -68,8 +66,7 @@
               "RelativeToolTip": "filez.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-24T15:29:51.099Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-24T15:29:51.099Z"
             },
             {
               "$type": "Document",
@@ -81,18 +78,17 @@
               "RelativeToolTip": "filez.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-04-24T15:27:09.101Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-24T15:27:09.101Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "42425 reading and writing.cpp",
-              "DocumentMoniker": "C:\\Users\\Maybe\\GitHub\\coding1-cpp\\42425 reading and writing\\42425 reading and writing.cpp",
-              "RelativeDocumentMoniker": "42425 reading and writing.cpp",
-              "ToolTip": "C:\\Users\\Maybe\\GitHub\\coding1-cpp\\42425 reading and writing\\42425 reading and writing.cpp",
-              "RelativeToolTip": "42425 reading and writing.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAaAAAAAAAAAA==",
+              "Title": "HW14 Saving Ships.cpp",
+              "DocumentMoniker": "C:\\Users\\Maybe\\GitHub\\coding1-cpp\\42425 reading and writing\\HW14 Saving Ships.cpp",
+              "RelativeDocumentMoniker": "HW14 Saving Ships.cpp",
+              "ToolTip": "C:\\Users\\Maybe\\GitHub\\coding1-cpp\\42425 reading and writing\\HW14 Saving Ships.cpp",
+              "RelativeToolTip": "HW14 Saving Ships.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-04-24T14:42:15.539Z",
               "EditorCaption": ""
