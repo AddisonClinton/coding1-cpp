@@ -3,17 +3,17 @@
 
 int main()
 {
-	cout << "hi:3\n";
+	//cout << "hi:3\n";
 
 	ReadFromFile();
 
-	WriteToFile("i fucking hate nintendo soooo bad\n");
+	//WriteToFile("i fucking hate nintendo soooo bad\n");
 
-	ship carolla;
-	carolla.type = CRUISER;
-	carolla.status();
+	ship corolla;
+	corolla.type = CRUISER;
+	corolla.status();
 
-	WriteShipToFile(carolla);
+	WriteShipToFile(corolla);
 
 	return 0;
 }

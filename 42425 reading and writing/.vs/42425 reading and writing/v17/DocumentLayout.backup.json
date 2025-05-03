@@ -7,20 +7,20 @@
       "RelativeMoniker": "D:0:0:{38C65D97-CACD-4687-951E-E0039D1648C8}|42425 reading and writing.vcxproj|solutionrelative:filez.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{38C65D97-CACD-4687-951E-E0039D1648C8}|42425 reading and writing.vcxproj|C:\\Users\\Maybe\\GitHub\\coding1-cpp\\42425 reading and writing\\filez.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{38C65D97-CACD-4687-951E-E0039D1648C8}|42425 reading and writing.vcxproj|solutionrelative:filez.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{38C65D97-CACD-4687-951E-E0039D1648C8}|42425 reading and writing.vcxproj|C:\\Users\\Maybe\\GitHub\\coding1-cpp\\42425 reading and writing\\ship.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{38C65D97-CACD-4687-951E-E0039D1648C8}|42425 reading and writing.vcxproj|solutionrelative:ship.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{38C65D97-CACD-4687-951E-E0039D1648C8}|42425 reading and writing.vcxproj|C:\\Users\\Maybe\\GitHub\\coding1-cpp\\42425 reading and writing\\42425 reading and writing.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{38C65D97-CACD-4687-951E-E0039D1648C8}|42425 reading and writing.vcxproj|solutionrelative:42425 reading and writing.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{38C65D97-CACD-4687-951E-E0039D1648C8}|42425 reading and writing.vcxproj|C:\\Users\\Maybe\\GitHub\\coding1-cpp\\42425 reading and writing\\filez.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{38C65D97-CACD-4687-951E-E0039D1648C8}|42425 reading and writing.vcxproj|solutionrelative:filez.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{38C65D97-CACD-4687-951E-E0039D1648C8}|42425 reading and writing.vcxproj|C:\\Users\\Maybe\\GitHub\\coding1-cpp\\42425 reading and writing\\ship.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{38C65D97-CACD-4687-951E-E0039D1648C8}|42425 reading and writing.vcxproj|solutionrelative:ship.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{38C65D97-CACD-4687-951E-E0039D1648C8}|42425 reading and writing.vcxproj|C:\\Users\\Maybe\\GitHub\\coding1-cpp\\42425 reading and writing\\ship.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{38C65D97-CACD-4687-951E-E0039D1648C8}|42425 reading and writing.vcxproj|solutionrelative:ship.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{38C65D97-CACD-4687-951E-E0039D1648C8}|42425 reading and writing.vcxproj|C:\\Users\\Maybe\\GitHub\\coding1-cpp\\42425 reading and writing\\42425 reading and writing.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{38C65D97-CACD-4687-951E-E0039D1648C8}|42425 reading and writing.vcxproj|solutionrelative:42425 reading and writing.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -40,20 +40,20 @@
               "RelativeDocumentMoniker": "ship.cpp",
               "ToolTip": "C:\\Users\\Maybe\\GitHub\\coding1-cpp\\42425 reading and writing\\ship.cpp",
               "RelativeToolTip": "ship.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-04-24T15:43:05.728Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "ship.h",
               "DocumentMoniker": "C:\\Users\\Maybe\\GitHub\\coding1-cpp\\42425 reading and writing\\ship.h",
               "RelativeDocumentMoniker": "ship.h",
               "ToolTip": "C:\\Users\\Maybe\\GitHub\\coding1-cpp\\42425 reading and writing\\ship.h",
               "RelativeToolTip": "ship.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-04-24T15:39:06.974Z",
               "EditorCaption": ""
@@ -66,14 +66,14 @@
               "RelativeDocumentMoniker": "filez.cpp",
               "ToolTip": "C:\\Users\\Maybe\\GitHub\\coding1-cpp\\42425 reading and writing\\filez.cpp",
               "RelativeToolTip": "filez.cpp",
-              "ViewState": "AgIAACcAAAAAAAAAAAAAADQAAABDAAAAAAAAAA==",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAADUAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-04-24T15:29:51.099Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "filez.h",
               "DocumentMoniker": "C:\\Users\\Maybe\\GitHub\\coding1-cpp\\42425 reading and writing\\filez.h",
               "RelativeDocumentMoniker": "filez.h",
@@ -86,13 +86,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "42425 reading and writing.cpp",
               "DocumentMoniker": "C:\\Users\\Maybe\\GitHub\\coding1-cpp\\42425 reading and writing\\42425 reading and writing.cpp",
               "RelativeDocumentMoniker": "42425 reading and writing.cpp",
-              "ToolTip": "C:\\Users\\Maybe\\GitHub\\coding1-cpp\\42425 reading and writing\\42425 reading and writing.cpp*",
-              "RelativeToolTip": "42425 reading and writing.cpp*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAaAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Maybe\\GitHub\\coding1-cpp\\42425 reading and writing\\42425 reading and writing.cpp",
+              "RelativeToolTip": "42425 reading and writing.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-04-24T14:42:15.539Z",
               "EditorCaption": ""

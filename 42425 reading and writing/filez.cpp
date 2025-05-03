@@ -49,8 +49,19 @@ void WriteShipToFile(ship givenShip) {
 	}
 
 	// write text to the open file
-	file << givenShip.name; //add the name, which is a string, to the file.
-	file << givenShip.fuel; //add the fuel, which an int, to the file.
+	file << "Indeed, it is called " << givenShip.name << "...\n"; //add the name, which is a string, to the file.
+	file << "It has " << givenShip.fuel << " fuel.\n"; //add the fuel, which an int, to the file.
+	file << "The ship is a ";
+	switch (givenShip.type) {
+	case FIGHTER: file << "fighter.\n";
+		break;
+	case FRIGATE: file << "frigate.\n";
+		break;
+	case FREIGHTER: file << "freighter.\n";
+		break;
+	case CRUISER: file << "cruiser.\n";
+		break;
+	}
 
 	//close the file (save to disk)
 	file.close();

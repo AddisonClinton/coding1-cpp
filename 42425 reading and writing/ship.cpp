@@ -3,7 +3,7 @@
 
 //define the constructor
 ship::ship() {
-	name = "Toyota Carolla";
+	name = "Toyota Corolla";
 	fuel = 50; 
 	type = FRIGATE;
 }
